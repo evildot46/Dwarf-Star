@@ -1,0 +1,36 @@
+//This code defines the character (including Player Character)
+
+#include "characterAI"
+#include "playerCreation"
+
+bool isPlayer = ;
+
+//All health stats
+float health;
+float morale;
+float stamina;
+
+//Needs
+float hunger;
+float thirst;
+float sleep;
+
+//Current States
+string states[n];
+
+if (isPlayer){
+
+
+}
+
+else if (!isPlayer){
+ npcAI();
+ 
+ }
+ else{
+ destroyObject();
+ 
+ 
+ }
+ return 0;
+ 
